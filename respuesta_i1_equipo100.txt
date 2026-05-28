@@ -1,0 +1,2 @@
+a- Si, Alfa puede ver los datos que cargaron los otros colaboradores.
+b- Si se trata de subir un archivo al repositorio directamente, si, pueden verlo en las actualizaciones del repositorio. Pero si se trata de agregar un archivo de forma local, primero debe hacer un git push para que ese archivo sea visible para los demás usuarios.
